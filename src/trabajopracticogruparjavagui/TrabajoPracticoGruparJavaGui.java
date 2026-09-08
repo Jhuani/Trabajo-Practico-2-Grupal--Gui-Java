@@ -16,6 +16,7 @@ public class TrabajoPracticoGruparJavaGui {
     public static void main(String[] args) {
         // TODO code application logic here
         //Hola, este es el primer comentario del proyecto
+        //Hola, este es el segundo comentario del proyecto
     }
     
 }
