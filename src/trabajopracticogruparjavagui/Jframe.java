@@ -187,7 +187,7 @@ public class Jframe extends javax.swing.JFrame {
         btnRevelar.setBackground(new java.awt.Color(255, 255, 255));
         btnRevelar.setFont(new java.awt.Font("Segoe UI", 0, 24)); // NOI18N
         btnRevelar.setForeground(new java.awt.Color(0, 0, 0));
-        btnRevelar.setIcon(new javax.swing.ImageIcon("C:\\Users\\Taigo Capo\\Desktop\\aa.png")); // NOI18N
+        btnRevelar.setIcon(new javax.swing.ImageIcon(getClass().getResource("/trabajopracticogruparjavagui/imagenes/aa.png"))); // NOI18N
         btnRevelar.setText("Revelar");
         btnRevelar.setIconTextGap(5);
         btnRevelar.addActionListener(this::btnRevelarActionPerformed);
